@@ -1,0 +1,17 @@
+[
+{
+  "modid": "finitegas",
+  "name": "Finite Gas",
+  "description": "Fixes a gas dupe bug in Advanced Generators.",
+  "version": "${version}",
+  "url": "https://github.com/MommyHeather/Finite-Gas",
+  "updateUrl": "",
+  "authorList": ["MommyHeather"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": [
+    "advgenerators"
+  ]
+}
+]
